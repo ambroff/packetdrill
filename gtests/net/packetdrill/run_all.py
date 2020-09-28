@@ -1,4 +1,4 @@
-#!/usr/bin/python2.7
+#!/bin/python3
 
 """Run packetdrill across a set of scripts."""
 

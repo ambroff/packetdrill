@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/bin/python3
 
 import commands
 import os
